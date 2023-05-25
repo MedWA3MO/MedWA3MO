@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+[![moouaamm's 42 stats](https://medwa3mo.github.io/Portfolio/)]
 [![moouaamm's 42 stats](https://badge.mediaplus.ma/greenbinary/moouaamm?UM6P=off)]
 <!--
-<p> My web site : </p> <a href=" https://medwa3mo.github.io/Portfolio/">HERE</a>
+
 **MedWA3MO/MedWA3MO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
