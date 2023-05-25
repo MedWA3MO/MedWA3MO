@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![moouaamm's 42 stats](https://medwa3mo.github.io/Portfolio/)]
+
 [![moouaamm's 42 stats](https://badge.mediaplus.ma/greenbinary/moouaamm?UM6P=off)]
 <!--
 
