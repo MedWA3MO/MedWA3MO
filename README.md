@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![moouaamm's 42 stats](https://badge.mediaplus.ma/greenbinary/moouaamm?UM6P=off)]
+![moouaamm's 42 stats](https://badge.mediaplus.ma/greenbinary/moouaamm?UM6P=off)
 <!--
 
 **MedWA3MO/MedWA3MO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?account_id=108346614)
